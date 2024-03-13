@@ -1,0 +1,16 @@
+.container{
+background: red;
+width: 500px;
+height: 500px;
+margin: auto;
+}
+.field1{
+  margin-left: 10px;
+  width: 230px;
+  background: yellow;
+}
+.field2{
+  margin-left: 15px;
+  width: 230px;
+  background: yellow;
+}
