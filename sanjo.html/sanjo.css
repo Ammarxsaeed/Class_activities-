@@ -1,6 +1,10 @@
-.sanjo{
+.form{
  border: 2px black solid;
- height: 500px;
+ height: 700px;
  width: 450px;
  background-color: blanchedalmond;
+}
+.pic{
+  margin-top: 50px;
+  margin-left: 10px;
 }
