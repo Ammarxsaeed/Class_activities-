@@ -1,16 +1,31 @@
 .container{
-background: red;
-width: 500px;
-height: 500px;
+border: 2px black solid;
 margin: auto;
+height: fit-content;
+width: 400px
+margin-top:10px
 }
-.field1{
-  margin-left: 10px;
-  width: 230px;
-  background: yellow;
+.box{
+  margin-top: 20px;
+  margin-left: 17.5px;
 }
-.field2{
-  margin-left: 15px;
-  width: 230px;
-  background: yellow;
+.box1{
+  margin-top: 20px;
+  margin-left: 17.5px;
+}
+.box2{
+  margin-top: 20px;
+  margin-left: 17.5px;
+}
+.box3{
+  margin-top: 20px;
+  margin-left: 17.5px;
+}
+.box4{
+  margin-top: 20px;
+  margin-left: 17.5px;
+}
+.box5{
+  margin-top: 20px;
+  margin-left: 17.5px;
 }
